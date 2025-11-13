@@ -57,6 +57,14 @@ This project demonstrates the use of:
 
 ---
 
+## 🧑‍💻 Technologies
+- Java (SE)
+- Collections: ArrayList, HashMap
+- Console I/O (Scanner)
+
+---
+
+
 ## 🖥️ Sample Console Run
 
     ******************Welcome to the Library!******************
